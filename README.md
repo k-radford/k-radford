@@ -1,4 +1,4 @@
-## About
+## 👋🏻
 ```yaml
 name: Kate
 full_name: Kaitlin Radford
@@ -33,7 +33,7 @@ hobbies:
   Mobile App Dev
 ]
 ```
-## Toolbox
+## 🧰
 <img height="32" width="32" src="https://cdn.simpleicons.org/javascript"/> <img height="32" width="32" src="https://cdn.simpleicons.org/typescript"/> <img height="32" width="32" src="https://cdn.simpleicons.org/python"/> <img height="32" width="32" src="https://cdn.simpleicons.org/c"/> <img height="32" width="32" src="https://cdn.simpleicons.org/c++"/> <img height="32" width="32" src="https://cdn.simpleicons.org/css3"/>  <img height="32" width="32" src="https://cdn.simpleicons.org/gnubash"/> <img height="32" width="32" src="https://cdn.simpleicons.org/swift"/>
 
 <img height="32" width="32" src="https://cdn.simpleicons.org/mysql"/> <img height="32" width="32" src="https://cdn.simpleicons.org/mongodb"/>
