@@ -1,16 +1,47 @@
-### Hi there 👋
+## About
+```yaml
+name: Kate
+full_name: Kaitlin Radford
+located_in: Seattle, Washington, USA
+education: 
+[{
+  degree: Bachelor's,
+  major: Computer Science,
+  from: Washington State University
+}]
+strengths:
+[
+  Creating elegant and intuitive user experiences,
+  Translating end-user needs into features,
+  Communicating with people from both technical and non-technical backgrounds,
+  Writing maintainable, extensible, and robust code
+]
+fields_of_interests: 
+[
+  UI/UX Design,
+  Data Science,
+  Machine Learning
+]
+hobbies: 
+[
+  Roller Skating,
+  Hiking,
+  Thrifting,
+  Cooking,
+  DIY-ing,
+  Painting,
+  Mobile App Dev
+]
+```
+## Toolbox
+<img height="32" width="32" src="https://cdn.simpleicons.org/javascript"/> <img height="32" width="32" src="https://cdn.simpleicons.org/typescript"/> <img height="32" width="32" src="https://cdn.simpleicons.org/python"/> <img height="32" width="32" src="https://cdn.simpleicons.org/c"/> <img height="32" width="32" src="https://cdn.simpleicons.org/c++"/> <img height="32" width="32" src="https://cdn.simpleicons.org/css3"/>  <img height="32" width="32" src="https://cdn.simpleicons.org/gnubash"/> <img height="32" width="32" src="https://cdn.simpleicons.org/swift"/>
 
-<!--
-**k-radford/k-radford** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img height="32" width="32" src="https://cdn.simpleicons.org/mysql"/> <img height="32" width="32" src="https://cdn.simpleicons.org/mongodb"/>
 
-Here are some ideas to get you started:
+<img height="32" width="32" src="https://cdn.simpleicons.org/amazonaws"/> <img height="32" width="32" src="https://cdn.simpleicons.org/microsoftazure"/> <img height="32" width="32" src="https://cdn.simpleicons.org/heroku"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img height="32" width="32" src="https://cdn.simpleicons.org/react"/> <img height="32" width="32" src="https://cdn.simpleicons.org/expo"/> <img height="32" width="32" src="https://cdn.simpleicons.org/ubuntu"/> <img height="32" width="32" src="https://cdn.simpleicons.org/express"/> <img height="32" width="32" src="https://cdn.simpleicons.org/mui"/>
+
+<img height="32" width="32" src="https://cdn.simpleicons.org/twilio"/> <img height="32" width="32" src="https://cdn.simpleicons.org/sentry"/>
+
+<img height="32" width="32" src="https://cdn.simpleicons.org/canva"/> <img height="32" width="32" src="https://cdn.simpleicons.org/figma"/>
